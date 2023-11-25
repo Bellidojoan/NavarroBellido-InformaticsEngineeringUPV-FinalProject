@@ -1,0 +1,117 @@
+1. Introduction
+
+  1.1 Context and Motivation
+  1.2 Study Objective
+  1.3 Contributions and Scope
+
+2. State of the Art
+
+   2.1 Basic Concepts
+      2.1.1 Sentiment Analysis
+      2.1.2 Machine Learning
+      2.1.3 Classification
+      2.1.4 Neural Networks
+      2.1.5 Evaluation Metrics
+      2.1.6 Dataset
+
+  2.2 History and Evolution of Sentiment Analysis
+      2.2.1 Beginnings and Primitive Methods
+      2.2.2 Data Explosion and Machine Learning
+      2.2.3 Emergence of Neural Networks and Deep Learning
+      2.2.4 Contemporary Challenges and Future Perspectives
+
+  2.3 Traditional Techniques vs. Machine Learning
+      2.3.1 Traditional Techniques
+      2.3.2 Machine Learning Techniques
+
+  2.4 Natural Language Processing in Sentiment Analysis
+
+  2.5 Recent Advances and Current Trends
+
+3. Problem Analysis
+
+  3.1 Problem Definition
+
+  3.2 Importance of Sentiment Analysis
+
+  3.3 Exploration and Characteristics of the Sentiment140 Dataset
+      3.3.1 Characteristics and Structure of the Sentiment140 Dataset
+
+  3.4 Challenges and Difficulties of Sentiment Analysis in English
+
+4. Design
+
+  4.1 Experimental Design
+      4.1.1 Imports
+      4.1.2 Data Loading and Preparation
+      4.1.3 Vectorization
+      4.1.4 Data Division
+
+  4.2 Selection of Models and Techniques
+      4.2.1 Random Forest Model
+      4.2.2 Multi-layer Perceptron
+      4.2.3 Logistic Regression
+      4.2.4 Support Vector Machines
+      4.2.5 Multinomial Naive Bayes
+
+  4.3 Evaluation Design and Metrics
+      4.3.1 Precision (Positive Precision)
+      4.3.2 Recovery (Sensitivity)
+      4.3.3 F1 Score
+
+5. Development
+
+  5.1 Data Preparation
+      5.1.1 Data Loading
+      5.1.2 Data Cleaning
+      5.1.3 Data Division
+
+6. Implementation
+
+  6.1 Integration of Models and Tools
+      6.1.1 Model Selection
+      6.1.2 Libraries and Tools
+      6.1.3 Implementation of Random Forest Model
+      6.1.4 Implementation of Multi-Layer Perceptron
+      6.1.5 Implementation of Logistic Regression
+      6.1.6 Implementation of Support Vector Machines
+      6.1.7 Implementation of Multinomial Naive Bayes
+      6.1.8 Implementation of the Models
+
+7. Experiments
+
+  7.1 Test Methodology
+      7.1.1 Data Division
+      7.1.2 Evaluation Metrics
+      7.1.3 Model Comparison and Analysis
+
+8. Results and Discussion
+
+  8.1 Results
+      8.1.1 Analysis of Random Forest Model
+      8.1.2 Analysis of Multi-Layer Perceptron
+      8.1.3 Analysis of Logistic Regression Model
+      8.1.4 Analysis of Support Vector Machines
+      8.1.5 Analysis of Multinomial Naive Bayes
+      8.1.6 Comparative Table of Models
+      8.1.7 Individual Model Metrics Charts
+      8.1.8 Bar Chart of Metrics of Each Model
+
+  8.2 Discussion
+      8.2.1 Interpretation of Random Forest Model
+      8.2.2 Interpretation of Multi-Layer Perceptron
+      8.2.3 Interpretation of Logistic Regression Model
+      8.2.4 Interpretation of Support Vector Machines
+      8.2.5 Interpretation of Multinomial Naive Bayes
+
+9. Conclusions
+
+  9.1 Summary of Findings
+
+  9.2 Lessons Learned
+
+  9.3 Limitations and Challenges
+
+  9.4 Recommendations and Future Directions
+
+  9.5 Final Conclusions

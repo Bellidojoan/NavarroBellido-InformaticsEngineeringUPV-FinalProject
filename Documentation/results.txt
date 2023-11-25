@@ -1,0 +1,8 @@
+| Model Name              | Accuracy | Recall | F1 Score |
+|-------------------------|----------|--------|----------|
+| Random Forest Model     | 71.28%   | 71.28% | 71.19%   |
+| Multi-layer Perceptron  | 77.19%   | 77.19% | 77.19%   |
+| Logistic Regression     | 77.99%   | 77.99% | 77.99%   |
+| Support Vector Machine  | 76.08%   | 76.08% | 76.08X%  |
+| Multinomial Naive Bayes | 76.62%   | 76.72% | 76.56%   |
+
